@@ -1,0 +1,1 @@
+# multi-project-mkdocs-project-template
